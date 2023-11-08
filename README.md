@@ -1,7 +1,7 @@
 # Presentation
 This repo includes the project presentation slides, a video of our presentation, and key administrative toold that help project completion.
 
-[Presentation PDF Link](empty for now)
+[Presentation PDF Link](https://docs.google.com/presentation/d/13Io8I_sdVjq9McjSGFNkTnW2DLBWMUwSvMRIMlms6tA/edit?usp=sharing)
 * This is a PDF of the presentation
 
 [Presentation Video Link](Placeholder for now)
